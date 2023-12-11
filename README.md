@@ -1,33 +1,25 @@
-<h3 align="center">
-  Hello Everyone!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+[![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
+### 👋🏻 About me
+Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm studying Computer Science & Engineering at [University of Asia Pacific](https://www.uap-bd.edu/). I'm always open to collaborating on projects and start-up ideas. 
 
-![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mohitmishra786.mohitmishra786)
+* **Currently working on**: Building [Fusion](https://playfusion.netlify.app/)
+* **Currently learning tech**: Indie Game Gevelopment
+* **I Speak:** English, Bangla, C/C++, C#
+* **Talk to me about:** Game Development, Full-Stack Software Development, UI/UX Design, and Startups.
+* **Let's bond over:** Alt/Indie Music, Philosophy, Filmmaking, Art, Literature.
 
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Game+Developer;I'm+a+Competitive+Programmer;I'm+a+Geek+Enthusiast" /></a>
-</p>
+#### 👀 Where to find me?
+* [Twitter](https://twitter.com/bluefloyd07) - tech, react, ts, and game development.
+* [LinkedIn](https://linkedin.com/in/niloymajumder) - to connect one-on-one and career updates.
+* [Email](mailto://niloy.majumder@outlook.com) - for any queries & collaboration.
+* [Dev.to](https://dev.to/bluefloyd) - will be starting my tech journey blogs very soon.
+* [Polywork](https://www.polywork.com/niloymajumder) - To know my development progresses.
+* [Stack Overflow](https://stackoverflow.com/users/20199503/niloy-majumder) - i need your help!
+* More on [niloymajumder.github.io](https://niloymajumder.github.io/) - will be updated very soon!
 
+#### 🛠️ Relevant Projects
+* [Fusion](https://playfusion.netlify.app/) (2023 - Ongoing) - A free and open-source web music player to connect all music streaming platfrom at once.
+* [Findme](https://usefindme.vercel.app/) (2023 - Ongoing) - A free social media handles sharing platform.
+* More on [niloymajumder.github.io](https://niloymajumder.github.io/)
 
-<p>I am a Machine Learning Developer, I'm a Competitive Programmer, I also like to write blogs over <a href="https://medium.com/@niloymajumder">Medium</a> </p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
-<p align="center">
-  <a href="https://github.com/mohitmishra786?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mohitmishra786?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/mohitmishra786?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mohitmishra786?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-## 🚀 About Me
-
-I'm a Machine learning Developer and a competitive programmer. Most of my time is spent staring at a computer screen. During the day, I am usually programming, working to derive insight from large datasets. My skills include Data Analysis, Data Visualization, Machine learning and Deep Learning. I have developed a strong acumen for problem solving, and I enjoy an occasional challenge.
-
-- 👋 Hi, I’m @niloymajumder
-- 👀 I’m interested in Machine Learning / Deep Learning / Competitive Coding
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Projects , Hackathons
-
----
+[![](https://visitcount.itsvg.in/api?id=niloymajumder&icon=2&color=0)](https://visitcount.itsvg.in)
